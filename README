@@ -1,0 +1,9 @@
+Copyright (C) 2010 SkyCore Project
+
+<< SkyToaster - Readme! >>
+
+This program is a high customized irc bot. You can easily modify it for your needs.
+
+TODO:
+    1 - Make bot connect and join multiple channels.
+    2 - Create a default lib with some functionalities.
